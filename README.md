@@ -24,3 +24,6 @@ The third project for the Udacity Android Developer NanoDegree.
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/20021751/38478914-bb168388-3b70-11e8-93c3-b122e298990f.png" width="360">
 
+<img src="https://user-images.githubusercontent.com/20021751/38479019-74eafbe0-3b71-11e8-903b-2d292665718a.png" width="360">
+<img src="https://user-images.githubusercontent.com/20021751/38479023-7a25babe-3b71-11e8-95e8-d063b5e0ca55.png" width="360">
+<img src="https://user-images.githubusercontent.com/20021751/38479027-7ff03a32-3b71-11e8-93fa-cf5f59c337d9.png" width="900">
