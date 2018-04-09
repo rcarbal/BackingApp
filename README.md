@@ -20,3 +20,7 @@ The third project for the Udacity Android Developer NanoDegree.
 - Homepage widgets.
 - Exoplayer media streamer.
 - Recyclerview and Cardview layout setup.
+
+## Screenshots
+<img src="https://user-images.githubusercontent.com/20021751/38478914-bb168388-3b70-11e8-93c3-b122e298990f.png" width="360">
+
